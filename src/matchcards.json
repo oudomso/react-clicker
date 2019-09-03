@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./images/bulbasaur.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./images/charmander.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./images/squirtle.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./images/kakuna.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./images/caterpie.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./images/clefairy.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./images/pidgey.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./images/rattata.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./images/ekans.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./images/pikachu.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./images/sandshrew.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./images/vulpix.png",
+        "clicked": false
+    }
+]
